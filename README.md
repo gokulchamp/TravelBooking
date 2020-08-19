@@ -1,5 +1,4 @@
 # TravelBooking
-Travel,Hotel booking Responsive Website.  live demo : https://iamvks.github.io/TravelBooking/
 
 It is a complete solution for Travel Agency Business Website and Management System with Booking Engine.
 This Includes almost everything you need to make a travel agency business website, management system and booking engine.
